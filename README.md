@@ -16,6 +16,8 @@ Customer segmentation using RFM analysis
 
 The goal is to generate business-driven insights that can support strategic decision-making. 
 
+
+
  
 
 📊 Key Analyses Performed 
@@ -32,6 +34,8 @@ Revenue Over Time (Monthly Trends)
 
 Order-Level Revenue 
 
+
+
 2️⃣ Delivery Performance 
 
 Delivery Time 
@@ -39,6 +43,8 @@ Delivery Time
 Delivery Delay 
 
 Late Delivery Indicator (is_late) 
+
+
 
 3️⃣ Correlation Analysis 
 
@@ -53,6 +59,8 @@ Freight Cost
 Delivery Metrics 
 
 Customer Purchase Behavior 
+
+
 
 4️⃣ RFM Customer Segmentation 
 
@@ -76,6 +84,8 @@ VIP Customers
 
  
 
+
+
 🔍 Key Findings 
 
 💰 Revenue Insights 
@@ -89,6 +99,8 @@ Installment payments are moderately correlated with higher order values.
 Revenue shows time-based patterns suggesting seasonality. 
 
  
+
+
 
 👥 Customer Behavior Insights 
 
@@ -104,6 +116,8 @@ This reflects the Pareto principle (80/20 rule) common in e-commerce.
 
  
 
+
+
 🚚 Operational Insights 
 
 Late deliveries are relatively low. 
@@ -111,6 +125,8 @@ Late deliveries are relatively low.
 Strong correlation between delivery time and delivery delay confirms metric reliability. 
 
 No strong evidence that delivery delays significantly reduce revenue. 
+
+
 
  
 
@@ -126,6 +142,8 @@ Continue offering installment payment options.
 
 Optimize delivery performance in high-delay regions. 
 
+
+
  
 
 🛠️ Tools Used 
@@ -139,6 +157,8 @@ NumPy
 Matplotlib 
 
 Seaborn 
+
+
 
  
 
